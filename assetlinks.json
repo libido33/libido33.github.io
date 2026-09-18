@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.libido33.twa",
+        "sha256_cert_fingerprints": ["F4:14:30:92:5A:6E:6B:A9:FD:C1:54:84:B6:60:48:77:7B:3E:AD:97:4C:B8:80:BC:C6:82:8B:E0:12:1C:0A:26"]
+      }
+    }]
